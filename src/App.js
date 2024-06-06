@@ -16,8 +16,8 @@ const App = () => {
       </Container>
     </React.Fragment>
   );
-};
-// dvuvdad
+}; 
+
 export default App;
 
 
